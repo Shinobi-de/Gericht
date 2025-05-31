@@ -122,8 +122,8 @@
 
     }
     .app__gallery-images_card{
-        min-width: 240px;
-        height: 320px;
+        max-width: 240px;
+        height: auto;
     }
     .app__gallery-content{
         min-width: 100%;
